@@ -4,3 +4,5 @@ deneme aşaması github ekleme
 
 
 denemeye bakmak
+
+Git Test2 güncellemesi
