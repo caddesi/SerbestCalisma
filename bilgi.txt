@@ -1,3 +1,6 @@
 test aşaması için başladık
 
 deneme aşaması github ekleme
+
+
+denemeye bakmak
