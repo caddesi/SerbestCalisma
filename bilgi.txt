@@ -7,3 +7,9 @@ denemeye bakmak
 
 
 Lokal Çalışma Eklendi  Lokal Test1
+
+Git Test2 güncellemesi
+
+git test4 güncellemesi
+
+Lokal Çalışma Eklendi  Lokal Test1
