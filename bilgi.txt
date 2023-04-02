@@ -4,3 +4,6 @@ deneme aşaması github ekleme
 
 
 denemeye bakmak
+
+
+Lokal Çalışma Eklendi  Lokal Test1
